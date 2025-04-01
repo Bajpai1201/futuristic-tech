@@ -1,8 +1,8 @@
 # Futuristic E-Commerce Platform 🚀
 
 A cutting-edge MERN stack e-commerce solution with futuristic UI/UX and advanced features.
+![Screenshot 2025-04-01 171926](https://github.com/user-attachments/assets/cc6f5511-a0d5-4f93-a14e-462757f0493a)
 
-![Screenshot](client/public/screenshot.png) <!-- Add a screenshot later -->
 
 ## Features ✨
 
