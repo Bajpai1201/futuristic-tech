@@ -1,12 +1,40 @@
-# React + Vite
+# Futuristic E-Commerce Platform 🚀
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A cutting-edge MERN stack e-commerce solution with futuristic UI/UX and advanced features.
 
-Currently, two official plugins are available:
+![Screenshot](client/public/screenshot.png) <!-- Add a screenshot later -->
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features ✨
 
-## Expanding the ESLint configuration
+- Futuristic animations with Framer Motion
+- Responsive Tailwind CSS design
+- Product catalog with 3D previews
+- AI-powered product recommendations
+- Secure payment gateways (Stripe, PayPal)
+- Real-time shipping calculations
+- Voice-assisted shopping
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Technologies Used 💻
+
+- **Frontend**: React, Framer Motion, Tailwind CSS
+
+## Installation 🛠️
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/futuristic-ecommerce.git
+   cd futuristic-ecommerce
+   ```
+
+2. Set up frontend:
+   ```bash
+   cd ../client
+   npm install
+   cp .env.example .env
+   ```
+
+3. Run development servers:
+   ```bash
+   # In another terminal (frontend)
+   cd client && npm run dev
+   ```
